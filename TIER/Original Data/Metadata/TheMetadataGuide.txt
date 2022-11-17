@@ -1,0 +1,11 @@
+Zestaw danych zawiera dane o gruźlicy w różnych grupach pacjentów zawierająca informacje o wieku i o płci w kolumnach.
+Kopię danych można uzyskać pod adresem "TIER/Original Data/tb.csv".
+
+Występujące zmienne:
+iso2 - informacja o kraju w którym wystąpiły dane przypadki
+year - informacja o roku wystąpienia przypadków
+new_sp - informacja o nowych przypadkach z nieznaną płcią ani wiekiem
+new_sp_mu - informacja o nowych przypadkach u płci męskiej z nieznanym wiekiem
+new_sp_fu - informacja o nowych przypadkach u płci żeńskiej z nieznanym wiekiem
+new_sp_m04... new_sp_m65 - informacja o nowych przypadkach u płci męskiej w zadanym przedziale wiekowym
+new_sp_f04... new_sp_f 65 - informacja o nowych przypadkach u płci żeńskiej w zadanym przedziale wiekowym

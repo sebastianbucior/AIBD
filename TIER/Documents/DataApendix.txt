@@ -1,0 +1,60 @@
+TIER/Analysis Data/tb_in_countries.csv
+Uporządkowany zestaw danych obrazujący nowe przypadki w poszczegolnych krajach na przestrzeni lat 1980-2008.
+
+Występujące zmienne:
+iso2 - informacja o kraju w którym wystąpiły dane przypadki
+new_sp - informacja o nowych przypadkach z nieznaną płcią ani wiekiem
+new_sp_mu - informacja o nowych przypadkach u płci męskiej z nieznanym wiekiem
+new_sp_fu - informacja o nowych przypadkach u płci żeńskiej z nieznanym wiekiem
+new_sp_m04... new_sp_m65 - informacja o nowych przypadkach u płci męskiej w zadanym przedziale wiekowym
+new_sp_f04... new_sp_f 65 - informacja o nowych przypadkach u płci żeńskiej w zadanym przedziale wiekowym
+
+---------------------------------------------------------------------------------------------------------------------
+TIER/Analysis Data/tb_in_countries_without_age.csv
+
+Uporządkowany zestaw danych obrazujący nowe przypadki w poszczegolnych krajach na przestrzeni lat 1980-2008 z
+pominięciem przedziałów wiekowych.
+
+Występujące zmienne:
+iso2 - informacja o kraju w którym wystąpiły dane przypadki
+new_sp - informacja o nowych przypadkach z nieznaną płcią
+new_sp_male - informacja o nowych przypadkach u płci męskiej
+new_sp_female - informacja o nowych przypadkach u płci żeńskiej
+
+---------------------------------------------------------------------------------------------------------------------
+TIER/Analysis Data/tb_in_years.csv
+
+Uporządkowany zestaw danych obrazujący nowe przypadki w poszczegolnych latach na całym świecie.
+
+Występujące zmienne:
+year - informacja o roku wystąpienia przypadków
+new_sp - informacja o nowych przypadkach z nieznaną płcią ani wiekiem
+new_sp_mu - informacja o nowych przypadkach u płci męskiej z nieznanym wiekiem
+new_sp_fu - informacja o nowych przypadkach u płci żeńskiej z nieznanym wiekiem
+new_sp_m04... new_sp_m65 - informacja o nowych przypadkach u płci męskiej w zadanym przedziale wiekowym
+new_sp_f04... new_sp_f 65 - informacja o nowych przypadkach u płci żeńskiej w zadanym przedziale wiekowym
+
+---------------------------------------------------------------------------------------------------------------------
+TIER/Analysis Data/tb_in_years_without_age.csv
+
+Uporządkowany zestaw danych obrazujący nowe przypadki w poszczegolnych latach na całym świecie z pomięciem przedziałów
+wiekowych.
+
+Występujące zmienne
+year - informacja o roku wystąpienia przypadków
+new_sp - informacja o nowych przypadkach z nieznaną płcią
+new_sp_male - informacja o nowych przypadkach u płci męskiej
+new_sp_female - informacja o nowych przypadkach u płci żeńskiej
+
+---------------------------------------------------------------------------------------------------------------------
+TIER/Analysis Data/tb_in_years_without_age_and_sex.csv
+
+Uporządkowany zestaw danych obrazujący nowe przypadki w poszczegolnych latach na całym świecie z pomięciem płci oraz
+przedziałów wiekowych.
+
+Występujące zmienne:
+year - informacja o roku wystąpienia przypadków
+all_new_sp - informacja o wszystkich nowych przypadkach
+
+
+---------------------------------------------------------------------------------------------------------------------
