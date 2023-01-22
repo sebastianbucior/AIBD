@@ -1,0 +1,55 @@
+Folder PATH listing
+Volume serial number is A4F7-437A
+D:.
+|   .gitattributes
+|   .gitignore
+|   output.doc
+|   
++---Lab 1
+|   |   lab_1.ipynb
+|   |   Zrzut_ekranu_1.png
+|   |   Zrzut_ekranu_2.png
+|   |   
+|   \---.idea
+|       |   Lab 1.iml
+|       |   misc.xml
+|       |   modules.xml
+|       |   vcs.xml
+|       |   workspace.xml
+|       |   
+|       \---inspectionProfiles
+|               profiles_settings.xml
+|               Project_Default.xml
+|               
+\---TIER
+    +---.idea
+    |   |   misc.xml
+    |   |   modules.xml
+    |   |   TIER.iml
+    |   |   vcs.xml
+    |   |   workspace.xml
+    |   |   
+    |   \---inspectionProfiles
+    |           profiles_settings.xml
+    |           Project_Default.xml
+    |           
+    +---Analysis Data
+    |       tb_in_countries.csv
+    |       tb_in_countries_without_age.csv
+    |       tb_in_years.csv
+    |       tb_in_years_without_age.csv
+    |       tb_in_years_without_age_and_sex.csv
+    |       
+    +---Command Files
+    |       tier_protocol.ipynb
+    |       
+    +---Documents
+    |       DataApendix.txt
+    |       tier_protocol_copy.ipynb
+    |       
+    \---Original Data
+        |   tb.csv
+        |   
+        \---Metadata
+                TheMetadataGuide.txt
+                
